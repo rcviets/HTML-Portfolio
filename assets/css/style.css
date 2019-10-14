@@ -17,3 +17,8 @@ h1, h2 {
 .card-deck {
     padding: 10px;
 }
+.photo {
+    float: left;
+    margin: auto;
+    padding: 10px;
+}
